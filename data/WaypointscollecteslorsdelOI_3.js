@@ -1,0 +1,32 @@
+var json_WaypointscollecteslorsdelOI_3 = {
+"type": "FeatureCollection",
+"name": "WaypointscollecteslorsdelOI_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "001", "cmt": null, "Date": "2020-06-29", "Heure": "12h06", "Altitude": "166 m" }, "geometry": { "type": "Point", "coordinates": [ -5.544628, 5.864817 ] } },
+{ "type": "Feature", "properties": { "name": "002", "cmt": null, "Date": "2020-06-29", "Heure": "12h46", "Altitude": "168 m" }, "geometry": { "type": "Point", "coordinates": [ -5.545096, 5.865025 ] } },
+{ "type": "Feature", "properties": { "name": "003", "cmt": null, "Date": "2020-06-29", "Heure": "12h14", "Altitude": "166 m" }, "geometry": { "type": "Point", "coordinates": [ -5.545169, 5.865115 ] } },
+{ "type": "Feature", "properties": { "name": "004", "cmt": null, "Date": "2020-06-29", "Heure": "12h31", "Altitude": "173 m" }, "geometry": { "type": "Point", "coordinates": [ -5.545608, 5.86548 ] } },
+{ "type": "Feature", "properties": { "name": "005", "cmt": null, "Date": "2020-06-29", "Heure": "12h45", "Altitude": "169 m" }, "geometry": { "type": "Point", "coordinates": [ -5.545505, 5.865817 ] } },
+{ "type": "Feature", "properties": { "name": "006", "cmt": null, "Date": "2020-06-29", "Heure": "13h24", "Altitude": "175 m" }, "geometry": { "type": "Point", "coordinates": [ -5.508886, 5.872311 ] } },
+{ "type": "Feature", "properties": { "name": "007", "cmt": null, "Date": "2020-06-29", "Heure": "13h29", "Altitude": "176 m" }, "geometry": { "type": "Point", "coordinates": [ -5.508661, 5.872418 ] } },
+{ "type": "Feature", "properties": { "name": "008", "cmt": null, "Date": "2020-06-29", "Heure": "13h30", "Altitude": "175 m" }, "geometry": { "type": "Point", "coordinates": [ -5.508552, 5.87272 ] } },
+{ "type": "Feature", "properties": { "name": "009", "cmt": null, "Date": "2020-06-29", "Heure": "13h32", "Altitude": "172 m" }, "geometry": { "type": "Point", "coordinates": [ -5.508299, 5.872258 ] } },
+{ "type": "Feature", "properties": { "name": "010", "cmt": null, "Date": "2020-07-01", "Heure": "13h34", "Altitude": "172 m" }, "geometry": { "type": "Point", "coordinates": [ -5.5081, 5.872212 ] } },
+{ "type": "Feature", "properties": { "name": "025", "cmt": "DEGA FRO CC", "Date": "2020-07-02", "Heure": "16h21", "Altitude": "191 m" }, "geometry": { "type": "Point", "coordinates": [ -5.307318, 5.95737 ] } },
+{ "type": "Feature", "properties": { "name": "023", "cmt": null, "Date": "2020-07-02", "Heure": "13h19", "Altitude": "208 m" }, "geometry": { "type": "Point", "coordinates": [ -5.28638, 6.037855 ] } },
+{ "type": "Feature", "properties": { "name": "024", "cmt": null, "Date": "2020-07-02", "Heure": "13h43", "Altitude": "205 m" }, "geometry": { "type": "Point", "coordinates": [ -5.286874, 6.037402 ] } },
+{ "type": "Feature", "properties": { "name": "017", "cmt": null, "Date": "2020-07-02", "Heure": "12h38", "Altitude": "197 m" }, "geometry": { "type": "Point", "coordinates": [ -5.287783, 6.038145 ] } },
+{ "type": "Feature", "properties": { "name": "018", "cmt": null, "Date": "2020-07-02", "Heure": "12h41", "Altitude": "198 m" }, "geometry": { "type": "Point", "coordinates": [ -5.287663, 6.038498 ] } },
+{ "type": "Feature", "properties": { "name": "015", "cmt": null, "Date": "2020-07-01", "Heure": "12h32", "Altitude": "203 m" }, "geometry": { "type": "Point", "coordinates": [ -5.287233, 6.037394 ] } },
+{ "type": "Feature", "properties": { "name": "016", "cmt": null, "Date": "2020-07-02", "Heure": "12h36", "Altitude": "198 m" }, "geometry": { "type": "Point", "coordinates": [ -5.287839, 6.038153 ] } },
+{ "type": "Feature", "properties": { "name": "021", "cmt": null, "Date": "2020-07-02", "Heure": "12h54", "Altitude": "189 m" }, "geometry": { "type": "Point", "coordinates": [ -5.288964, 6.03941 ] } },
+{ "type": "Feature", "properties": { "name": "022", "cmt": null, "Date": "2020-07-02", "Heure": "13h04", "Altitude": "189 m" }, "geometry": { "type": "Point", "coordinates": [ -5.289164, 6.03981 ] } },
+{ "type": "Feature", "properties": { "name": "019", "cmt": null, "Date": "2020-07-02", "Heure": "12h50", "Altitude": "191 m" }, "geometry": { "type": "Point", "coordinates": [ -5.288613, 6.039564 ] } },
+{ "type": "Feature", "properties": { "name": "020", "cmt": null, "Date": "2020-07-02", "Heure": "142h53", "Altitude": "188 m" }, "geometry": { "type": "Point", "coordinates": [ -5.288973, 6.039537 ] } },
+{ "type": "Feature", "properties": { "name": "013", "cmt": null, "Date": "2020-07-01", "Heure": "11h05", "Altitude": "169 m" }, "geometry": { "type": "Point", "coordinates": [ -5.4716, 5.872163 ] } },
+{ "type": "Feature", "properties": { "name": "014", "cmt": null, "Date": "2020-07-01", "Heure": "11h21", "Altitude": "158 m" }, "geometry": { "type": "Point", "coordinates": [ -5.472548, 5.872389 ] } },
+{ "type": "Feature", "properties": { "name": "011", "cmt": "POINT DE  DEPART", "Date": "2020-07-01", "Heure": "10h22", "Altitude": "165 m" }, "geometry": { "type": "Point", "coordinates": [ -5.471063, 5.87497 ] } },
+{ "type": "Feature", "properties": { "name": "012", "cmt": null, "Date": "2020-07-01", "Heure": "10h39", "Altitude": "166 m" }, "geometry": { "type": "Point", "coordinates": [ -5.471023, 5.872346 ] } }
+]
+}
